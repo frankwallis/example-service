@@ -1,0 +1,12 @@
+{
+  "jspm": {
+    "registry": "github",
+    "dependencies": {
+      "angular2": "npm:angular2@^2.0.0-alpha.34"
+    },
+    "devDependencies": {
+      "ts": "frankwallis/plugin-typescript@^2.0.3",
+      "typescript": "npm:typescript@1.5.3"
+    }
+  }
+}
