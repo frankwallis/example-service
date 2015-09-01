@@ -1,6 +1,6 @@
 {
   "jspm": {
-  	 "main": "index.ts!",
+  	"main": "index.ts",
     "registry": "github",
     "dependencies": {
       "angular2": "npm:angular2@^2.0.0-alpha.34"
