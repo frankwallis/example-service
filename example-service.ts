@@ -1,5 +1,5 @@
 /// <reference path="./_references.d.ts" />
-import {Injectable} from 'angular2';
+import {Injectable} from 'angular2/angular2';
 
 @Injectable()
 export class ExampleService {
@@ -7,7 +7,7 @@ export class ExampleService {
 	constructor() {
 		this.cache = new Map<string, string>();
 
-		var a = Symbol();
+		//var a = Symbol();
 	}
 
 	private cache: Map<string, string>;
