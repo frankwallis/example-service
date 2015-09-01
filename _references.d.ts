@@ -1,3 +1,1 @@
-declare module "angular2" {
-	export var Injectable: any;
-}
+/// <reference path="angular2/bundles/typings/angular2/angular2.d.ts" />
