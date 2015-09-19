@@ -1,6 +1,6 @@
 {
   "jspm": {
-    "main": "index.ts!",
+    "main": "index",
     "defaultExtension": "ts",
     "registry": "github",
     "dependencies": {
