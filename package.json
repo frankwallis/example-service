@@ -4,11 +4,11 @@
     "defaultExtension": "ts",
     "registry": "github",
     "dependencies": {
-      "angular2": "npm:angular2@^2.0.0-alpha.34"
+      "angular2": "npm:angular2@^2.0.0-alpha.45"
     },
     "devDependencies": {
-      "ts": "frankwallis/plugin-typescript@^2.0.3",
-      "typescript": "npm:typescript@1.5.3"
+      "ts": "frankwallis/plugin-typescript@^2.2.2",
+      "typescript": "npm:typescript@1.6.2"
     }
   }
 }

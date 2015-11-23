@@ -1,4 +1,3 @@
-/// <reference path="./_references.d.ts" />
 import {Injectable} from 'angular2/angular2';
 
 @Injectable()
