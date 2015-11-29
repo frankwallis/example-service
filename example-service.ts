@@ -4,7 +4,7 @@ import {Injectable} from 'angular2/angular2';
 export class ExampleService {
 
 	constructor() {
-		this.cache = new Map<string, string>();
+		this.cache = {};//new Map<string, string>();
 
 		//var a = Symbol();
 	}
