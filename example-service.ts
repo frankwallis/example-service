@@ -9,7 +9,7 @@ export class ExampleService {
 		//var a = Symbol();
 	}
 
-	private cache: Map<string, string>;
+	private cache: any;//Map<string, string>;
 
 	greet(name: string): string {
 		name = name || "clint"; // obligatory
